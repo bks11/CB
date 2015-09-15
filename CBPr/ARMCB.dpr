@@ -8,7 +8,8 @@ uses
   Arhivator in 'Arhivator.pas',
   Verba in 'Verba.pas',
   CriptoMudule in 'CriptoMudule.pas',
-  krutilka in 'krutilka.pas';
+  krutilka in 'krutilka.pas',
+  urep3251 in 'urep3251.pas';
 
 {$R *.res}
 

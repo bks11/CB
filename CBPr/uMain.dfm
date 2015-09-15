@@ -30,6 +30,10 @@ object fmMain: TfmMain
     TabOrder = 0
     object TabSheetVerba: TTabSheet
       Caption = #1042#1077#1088#1073#1072
+      ExplicitLeft = 0
+      ExplicitTop = 0
+      ExplicitWidth = 0
+      ExplicitHeight = 0
       object PageControlVerba: TPageControl
         Left = 3
         Top = 3
@@ -39,6 +43,10 @@ object fmMain: TfmMain
         TabOrder = 0
         object TabSheetVerba311: TTabSheet
           Caption = '311 '#1055#1086#1076#1087#1080#1089#1100
+          ExplicitLeft = 0
+          ExplicitTop = 0
+          ExplicitWidth = 0
+          ExplicitHeight = 0
           object Panel9: TPanel
             Left = 3
             Top = 3
@@ -93,6 +101,10 @@ object fmMain: TfmMain
         object TabSheet2: TTabSheet
           Caption = '311 '#1050#1088#1080#1087#1090#1086#1074#1072#1085#1080#1077
           ImageIndex = 1
+          ExplicitLeft = 0
+          ExplicitTop = 0
+          ExplicitWidth = 0
+          ExplicitHeight = 0
           object Panel10: TPanel
             Left = 3
             Top = 3
@@ -141,6 +153,10 @@ object fmMain: TfmMain
         object TabSheetVerbaSignArh: TTabSheet
           Caption = #1055#1086#1076#1087#1080#1089#1100' '#1072#1088#1093#1080#1074#1086#1074
           ImageIndex = 2
+          ExplicitLeft = 0
+          ExplicitTop = 0
+          ExplicitWidth = 0
+          ExplicitHeight = 0
           object Panel11: TPanel
             Left = 3
             Top = 3
@@ -189,6 +205,10 @@ object fmMain: TfmMain
         object TabSheet6: TTabSheet
           Caption = #1051#1080#1096#1085#1077#1077
           ImageIndex = 3
+          ExplicitLeft = 0
+          ExplicitTop = 0
+          ExplicitWidth = 0
+          ExplicitHeight = 0
           object Panel12: TPanel
             Left = 3
             Top = 3
@@ -238,6 +258,10 @@ object fmMain: TfmMain
     object TabSheetKKrutilka: TTabSheet
       Caption = #1050#1088#1091#1090#1080#1083#1082#1072
       ImageIndex = 1
+      ExplicitLeft = 0
+      ExplicitTop = 0
+      ExplicitWidth = 0
+      ExplicitHeight = 0
       object PageControlKrutilka: TPageControl
         Left = 3
         Top = 3
@@ -247,6 +271,10 @@ object fmMain: TfmMain
         TabOrder = 0
         object TabSheetKrutil311: TTabSheet
           Caption = '311'
+          ExplicitLeft = 0
+          ExplicitTop = 0
+          ExplicitWidth = 0
+          ExplicitHeight = 0
           object ProgressBarKrut311: TProgressBar
             Left = 3
             Top = 502
@@ -283,6 +311,10 @@ object fmMain: TfmMain
         object TabSheetkruthron: TTabSheet
           Caption = #1061#1088#1072#1085#1080#1083#1080#1097#1077
           ImageIndex = 1
+          ExplicitLeft = 0
+          ExplicitTop = 0
+          ExplicitWidth = 0
+          ExplicitHeight = 0
           object ButtonkrutHronPusk: TButton
             Left = 3
             Top = 3
@@ -319,6 +351,10 @@ object fmMain: TfmMain
         object TabSheetKrutVerba: TTabSheet
           Caption = #1042#1077#1088#1073#1072
           ImageIndex = 2
+          ExplicitLeft = 0
+          ExplicitTop = 0
+          ExplicitWidth = 0
+          ExplicitHeight = 0
           object ButtonKrutVerbaStart: TButton
             Left = 3
             Top = 3
@@ -355,6 +391,10 @@ object fmMain: TfmMain
         object TabSheet9: TTabSheet
           Caption = #1040#1088#1093#1080#1074#1080#1088#1086#1074#1072#1085#1080#1077
           ImageIndex = 3
+          ExplicitLeft = 0
+          ExplicitTop = 0
+          ExplicitWidth = 0
+          ExplicitHeight = 0
           object ButtonKrutArhivStart: TButton
             Left = 3
             Top = 3
@@ -393,6 +433,10 @@ object fmMain: TfmMain
     object TabSheet311P: TTabSheet
       Caption = '311'
       ImageIndex = 2
+      ExplicitLeft = 0
+      ExplicitTop = 0
+      ExplicitWidth = 0
+      ExplicitHeight = 0
       object PageControl311P: TPageControl
         Left = 3
         Top = 3
@@ -402,6 +446,10 @@ object fmMain: TfmMain
         TabOrder = 0
         object TabSheetSform: TTabSheet
           Caption = #1057#1092#1086#1088#1084#1080#1088#1086#1074#1072#1085#1085#1099#1077
+          ExplicitLeft = 0
+          ExplicitTop = 0
+          ExplicitWidth = 0
+          ExplicitHeight = 0
           object Panel1: TPanel
             Left = 3
             Top = 3
@@ -466,6 +514,10 @@ object fmMain: TfmMain
         object TabSheetInCa: TTabSheet
           Caption = #1053#1072' '#1087#1086#1076#1087#1080#1089#1100
           ImageIndex = 1
+          ExplicitLeft = 0
+          ExplicitTop = 0
+          ExplicitWidth = 0
+          ExplicitHeight = 0
           object Panel2: TPanel
             Left = 3
             Top = 3
@@ -522,6 +574,10 @@ object fmMain: TfmMain
         object TabSheetInSign: TTabSheet
           Caption = #1053#1072' '#1082#1088#1080#1087#1090#1086#1074#1072#1085#1080#1077
           ImageIndex = 2
+          ExplicitLeft = 0
+          ExplicitTop = 0
+          ExplicitWidth = 0
+          ExplicitHeight = 0
           object Panel3: TPanel
             Left = 3
             Top = 3
@@ -578,6 +634,10 @@ object fmMain: TfmMain
         object TabSheet311Arh: TTabSheet
           Caption = #1040#1088#1093#1080#1074#1080#1088#1086#1074#1072#1090#1100
           ImageIndex = 3
+          ExplicitLeft = 0
+          ExplicitTop = 0
+          ExplicitWidth = 0
+          ExplicitHeight = 0
           object Panel4: TPanel
             Left = 3
             Top = 3
@@ -636,6 +696,10 @@ object fmMain: TfmMain
     object TabSheetArhiv: TTabSheet
       Caption = #1040#1088#1093#1080#1074#1072#1090#1086#1088
       ImageIndex = 3
+      ExplicitLeft = 0
+      ExplicitTop = 0
+      ExplicitWidth = 0
+      ExplicitHeight = 0
       object TabSheetArhivator: TPageControl
         Left = 3
         Top = 3
@@ -645,6 +709,10 @@ object fmMain: TfmMain
         TabOrder = 0
         object TabSheetArhiv311PA: TTabSheet
           Caption = '311A'
+          ExplicitLeft = 0
+          ExplicitTop = 0
+          ExplicitWidth = 0
+          ExplicitHeight = 0
           object Panel5: TPanel
             Left = 3
             Top = 3
@@ -701,6 +769,10 @@ object fmMain: TfmMain
         object TabSheetArhiv311PB: TTabSheet
           Caption = '311B'
           ImageIndex = 1
+          ExplicitLeft = 0
+          ExplicitTop = 0
+          ExplicitWidth = 0
+          ExplicitHeight = 0
           object Panel6: TPanel
             Left = 3
             Top = 3
@@ -749,6 +821,10 @@ object fmMain: TfmMain
         object TabSheetArhMail: TTabSheet
           Caption = #1055#1072#1082#1077#1090#1099
           ImageIndex = 2
+          ExplicitLeft = 0
+          ExplicitTop = 0
+          ExplicitWidth = 0
+          ExplicitHeight = 0
           object Panel7: TPanel
             Left = 3
             Top = 3
@@ -797,6 +873,10 @@ object fmMain: TfmMain
         object TabSheet4: TTabSheet
           Caption = #1051#1080#1096#1085#1077#1077
           ImageIndex = 3
+          ExplicitLeft = 0
+          ExplicitTop = 0
+          ExplicitWidth = 0
+          ExplicitHeight = 0
           object Panel8: TPanel
             Left = 3
             Top = 3

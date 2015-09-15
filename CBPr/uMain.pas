@@ -205,6 +205,8 @@ Begin
 End;
 
 Procedure TUser.LoadLogin;
+var
+   b:  boolean;
 Begin
  UsersLogin.Login:=GetUserFromWindows;
 
@@ -231,7 +233,7 @@ Begin
   fmMain.PageControlMain.Pages[2].TabVisible:=False;
  End else
  Begin
-  P311.LoadPath;
+  b:= P311.LoadPath;
  End;
  if UsersLogin.Dostup.Arhiv<>True then
  Begin
